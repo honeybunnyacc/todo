@@ -1,0 +1,32 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.columnSelection": false,
+  "editor.renderControlCharacters": false,
+  "workbench.colorTheme": "Tinacious Design",
+  "workbench.startupEditor": "newUntitledFile",
+  "svg.completion.emmet": true,
+  "svg.completion.showAdvanced": true,
+  "svg.minify.addAttributesToSVGElement": true,
+  "svg.minify.addClassesToSVGElement": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "timeline.excludeSources": ["git-history"],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "diffEditor.codeLens": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "svg.preview.mode": "svg",
+  "git.enableSmartCommit": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.useEditorConfig": false,
+  "prettier.useTabs": true
+}
